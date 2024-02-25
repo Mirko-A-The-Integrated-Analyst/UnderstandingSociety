@@ -1,8 +1,8 @@
-# Understanding Society ----
+# Understanding Society
 
 This readme file provides a guideline for importing and merging various data files, extracting variables, and creating a longitudinal data frame using an extensive UK Household Longitudinal survey called UKHLS (i.e., Understanding Society Survey).
 
-# Project Showcase Notice ----
+# Project Showcase Notice
 #This repository contains code and materials for the purpose of showcasing the project. Please note that sensitive and official parts of the project have been either partially or totally removed.
 #Purpose
 #The content provided here is intended to demonstrate the capabilities, design patterns, and methodologies employed in the project. It is not meant for production use and may lack certain functionalities that are part of the full, official version.
